@@ -34,3 +34,4 @@ Frontend (/.env)
 REACT_APP_WEATHER_API_KEY=your_openweather_api_key
 
 4. Run the app
+   npm start
