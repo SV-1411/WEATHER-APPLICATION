@@ -1,0 +1,3 @@
+.env
+PORT=
+OPENWEATHER_API_KEY=
